@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "nombre": "Aceite de oliva extra virgen 500 ml",
+    "marca": "Oliva del Valle",
+    "tipo": "Despensa"
+  },
+  {
+    "id": "2",
+    "nombre": "Leche entera 1 L",
+    "marca": "Campo Fresco",
+    "tipo": "Lácteos"
+  },
+  {
+    "id": "3",
+    "nombre": "Manzanas Fuji bandeja 1 kg",
+    "marca": "Huerta Sur",
+    "tipo": "Frescos"
+  },
+  {
+    "id": "4",
+    "nombre": "Pan de masa madre",
+    "marca": "Horno Casa Gourmet",
+    "tipo": "Panadería"
+  },
+  {
+    "id": "5",
+    "nombre": "Café molido premium 250 g",
+    "marca": "Aroma Andino",
+    "tipo": "Despensa"
+  }
+]
